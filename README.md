@@ -26,4 +26,4 @@ All configuration options are located at the top of the `Config` class. They inc
 
 ## Acknowledgments
 
-- Inspiration: [ecapuano](https://github.com/ReconInfoSec/web-traffic-generator)
+- Inspiration: [ReconInfoSec](https://github.com/ReconInfoSec/web-traffic-generator)
